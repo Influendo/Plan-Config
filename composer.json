@@ -1,8 +1,8 @@
 {
-    "name": "influendo/plan-config",
+    "name": "codeforest/plan-config",
     "description": "Plan config allows you to easily define attributes and limits for your SaaS application subscription plans.",
     "keywords": ["subscription plans", "saas", "plans", "config", "laravel", "laravel5"],
-    "homepage": "https://github.com/influendo/Plan-Config",
+    "homepage": "https://github.com/codeforest/Plan-Config",
     "license": "MIT",
     "authors": [
         {
