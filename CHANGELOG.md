@@ -2,6 +2,8 @@
 
 All Notable changes to this package` will be documented in this file
 
+Updated composer.json for Laravel 5.5
+
 ## Version 1.2
 
 ### Added
